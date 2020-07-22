@@ -1,7 +1,4 @@
 
 # Ignore Folders
 data/
-*/.ipynb_checkpoints*
-analysis/.ipynb_checkpoints/regression-checkpoint.ipynb
-eda/.ipynb_checkpoints/cindy-checkpoint.ipynb
-eda/.ipynb_checkpoints/explore-checkpoint.ipynb
+*.ipynb_checkpoints/*
